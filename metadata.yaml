@@ -1,0 +1,40 @@
+_repo: The-Blue-and-The-GrayOr-The-Civil-War-as-Seen-by-a-Boy_45382
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Beard, Frank
+    aliases:
+    - Beard, F. (Frank)
+    - Beard, Thomas Francis
+    birthdate: 1842
+    deathdate: 1905
+    gutenberg_agent_id: '43263'
+    url: http://www.gutenberg.org/2009/agents/43263
+covers:
+- cover_type: archival
+  image_path: 45382-h/images/cover.jpg
+creator:
+  author:
+    agent_name: White, Annie Randall
+    aliases:
+    - White, Annie R. (Annie Randall)
+    - Mell, P. H., Mrs.
+    - Mell, Annie R.
+    - Mell, Patrick Hues, Mrs.
+    gutenberg_agent_id: '43262'
+    url: http://www.gutenberg.org/2009/agents/43262
+description: ''
+gutenberg_issued: '2014-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+title: "The Blue and the Gray; Or, The Civil War as Seen by a Boy\r\nA Story of Patriotism\
+  \ and Adventure in Our War for the Union"
+url: http://www.gutenberg.org/ebooks/45382
