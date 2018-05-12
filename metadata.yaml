@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '43262'
     url: http://www.gutenberg.org/2009/agents/43262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45382#The-Blue-and-The-GrayOr-The-Civil-War-as-Seen-by-a-Boy
 gutenberg_issued: '2014-04-14'
 gutenberg_type: Text
 identifiers:
